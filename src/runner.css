@@ -1,0 +1,10 @@
+
+RunnerStatBox {
+    background: blue;
+    margin-left: 10;
+}
+
+Runners {
+    layout: grid;
+    grid-size: 3 1;
+}
